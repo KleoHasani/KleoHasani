@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KleoHasani
-- 👀 JavaScript is awesome :heart:
-- 🌱 I’m currently learning!!!
+👋 Hi, I’m @KleoHasani, and JavaScript is awesome ❤️
 
-:thumbsup: Check out some of my work!
+🌱 I’m currently studying CS 😃
 
-<!---
-KleoHasani/KleoHasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👍 Check out some of my work!
