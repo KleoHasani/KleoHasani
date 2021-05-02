@@ -2,4 +2,8 @@
 
 🌱 I’m currently studying CS 😃
 
-👍 Check out some of my work!
+:apple: New York ❤️
+
+👍 Check out some of my work! 👍
+
+
