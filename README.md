@@ -1,4 +1,3 @@
-<div style="align: center;">
 
 👋 Hi, __I’m @KleoHasani__, and JavaScript is awesome ❤️
 
@@ -7,5 +6,3 @@
 :apple: New York ❤️
 
 👍 Check out some of my work! 👍
-
-</div>
