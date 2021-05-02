@@ -1,3 +1,5 @@
+<div style="align: center;">
+
 👋 Hi, __I’m @KleoHasani__, and JavaScript is awesome ❤️
 
 🌱 I’m currently studying CS 😃
@@ -6,4 +8,4 @@
 
 👍 Check out some of my work! 👍
 
-
+</div>
