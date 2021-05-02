@@ -1,4 +1,4 @@
-👋 Hi, I’m @KleoHasani, and JavaScript is awesome ❤️
+👋 Hi, __I’m @KleoHasani__, and JavaScript is awesome ❤️
 
 🌱 I’m currently studying CS 😃
 
