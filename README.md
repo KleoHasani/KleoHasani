@@ -22,7 +22,7 @@
 
 🏙️ ɴᴇᴡ ʏᴏʀᴋ 🍎
 
-⭐ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [__Design of Cyber Threat Intelligence__](https://www.github.com/csdcti)  ⭐
+⭐ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [__ᴅᴇꜱɪɢɴ ᴏꜰ ᴄʏʙᴇʀ ᴛʜʀᴇᴀᴛ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ__](https://www.github.com/csdcti)  ⭐
 
 <br/>
 
