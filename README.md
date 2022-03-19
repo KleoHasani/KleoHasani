@@ -11,9 +11,9 @@
 
 
 <h1 align="center">
-  Hey 
+  𝐻𝑒𝓎 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm 𝒦𝓁𝑒𝑜 ❤️
+  𝐼'𝓂 𝒦𝓁𝑒𝑜 ❤️
 </h1>
 
 I’m a passionated Software Engineer with a love for learning. I am currently studying Computer Science and Information Security at John Jay College.
