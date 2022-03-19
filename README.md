@@ -16,7 +16,7 @@
   𝐼'𝓂 𝒦𝓁𝑒𝑜 ❤️
 </h1>
 
-I’m a passionated Software Engineer with a love for learning. I am currently studying Computer Science and Information Security at John Jay College.
+ɪ’ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ ᴡɪᴛʜ ᴀ ʟᴏᴠᴇ ꜰᴏʀ ʟᴇᴀʀɴɪɴɢ. ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜱᴇᴄᴜʀɪᴛʏ ᴀᴛ ᴊᴏʜɴ ᴊᴀʏ ᴄᴏʟʟᴇɢᴇ.
 
 💻 I love Cyber Security and all things computer 🖥️
 
