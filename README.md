@@ -6,7 +6,9 @@
   <a target="_self" href="https://www.linkedin.com/in/kleohasani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  <a target="_self" href="https://twitter.com/KleoHasani">
+    <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FKleoHasani" alt="Twitter Badge">
+  </a>
 </div>
 
 
@@ -16,11 +18,9 @@
   𝐼'𝓂 𝒦𝓁𝑒𝑜 ❤️
 </h1>
 
-ɪ’ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ ᴡɪᴛʜ ᴀ ʟᴏᴠᴇ ꜰᴏʀ ʟᴇᴀʀɴɪɴɢ.
-
-💻 ɪ ❤️ ᴄʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ 🖥️
-
-🏙️ ɴᴇᴡ ʏᴏʀᴋ 🍎
+<h3 align="center">
+I'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴇɴɢɪɴᴇᴇʀ ᴡɪᴛʜ ᴀ ʟᴏᴠᴇ ғᴏʀ ʟᴇᴀʀɴɪɴɢ 📚 ᴀɴᴅ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ 🖥️
+</h3>
 
 <br/>
 
@@ -72,6 +72,8 @@
 <br/>
 
 ## 📈 𝗦𝘁𝗮𝘁𝘀
+
+<script src="https://tryhackme.com/badge/964840"></script>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kleohasani&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
