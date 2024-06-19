@@ -6,9 +6,6 @@
   <a target="_self" href="https://www.linkedin.com/in/kleohasani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_self" href="https://twitter.com/KleoHasani">
-    <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FKleoHasani" alt="Twitter Badge">
-  </a>
 </div>
 
 
